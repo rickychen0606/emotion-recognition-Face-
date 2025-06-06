@@ -6,8 +6,9 @@ __pycache__/
 *.h5 
 models/ 
 datasets/ 
-results/confusion_matrix/**/* 
-results/demo_predictions/**/* 
-results/charts/**/* 
-.DS_Store 
-Thumbs.db 
+!results/confusion_matrix/ 
+!results/confusion_matrix/**/* 
+!results/demo_predictions/ 
+!results/demo_predictions/**/* 
+!results/charts/ 
+!results/charts/**/* 

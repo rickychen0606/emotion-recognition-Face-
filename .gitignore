@@ -1,0 +1,13 @@
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+*.pt 
+*.pth 
+*.h5 
+models/ 
+datasets/ 
+results/confusion_matrix/**/* 
+results/demo_predictions/**/* 
+results/charts/**/* 
+.DS_Store 
+Thumbs.db 
